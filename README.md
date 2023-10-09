@@ -1,4 +1,4 @@
-# Midterm Exercise:
+# Midterm Exercise
 - EmailList
 - Survey
 - Download
